@@ -1,0 +1,19 @@
+{
+  "name": "graphql-mock-serverv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/Rssola/graphql-mock-server.git"
+  }
+}
